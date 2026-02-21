@@ -1,0 +1,13 @@
+steps\LoginSteps.class
+pages\ProductsPage.class
+pages\LoginPage.class
+pages\CartPage.class
+support\LoggerUtils.class
+runners\TestRunner.class
+steps\PurchaseSteps.class
+support\DBUtils.class
+config\ConfigReader.class
+support\DriverFactory.class
+support\WaitUtils.class
+support\Hooks.class
+pages\CheckoutPage.class
